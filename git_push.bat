@@ -1,2 +1,2 @@
 echo off
-git status && git add . && git commit -m "AJOUT CODE processing version confirmer " && git push
+git status && git add . && git commit -m "Tout est en boite sauf la video " && git push
